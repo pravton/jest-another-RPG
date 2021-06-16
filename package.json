@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pravton/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "jest",
+    "nodejs"
+  ],
+  "author": "Clinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pravton/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/pravton/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
