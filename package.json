@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/pravton/jest-another-RPG#readme",
   "devDependencies": {
-    "jest": "^27.0.4"
+    "jest": "^27.0.2"
   }
 }
